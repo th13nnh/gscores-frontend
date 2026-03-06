@@ -51,8 +51,8 @@ const App = () => {
   const fetchDashboardData = async () => {
     try {
       const [topRes, reportRes] = await Promise.all([
-        axios.get('https://gscores-1-y91m.onrender.com/api/students/top10'),
-        axios.get('https://gscores-1-y91m.onrender.com/api/students/report')
+        axios.get('https://gscores-1-as52.onrender.com/api/students/top10'),
+        axios.get('https://gscores-1-as52.onrender.com/api/students/report')
       ]);
       setTop10(topRes.data);
       setReportData(reportRes.data);

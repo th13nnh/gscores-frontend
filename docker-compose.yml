@@ -7,5 +7,5 @@ services:
     ports:
       - "3000:80"
     environment:
-      - REACT_APP_API_URL=https://gscores-1-y91m.onrender.com/api
+      - REACT_APP_API_URL=https://gscores-1-as52.onrender.com/api
     restart: always
