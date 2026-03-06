@@ -1,21 +1,11 @@
 version: '3.8'
 
 services:
-  # REACT FRONTEND
-  frontend:
-    build: ./gscores-frontend
+  gscores-frontend:
+    build: .
     container_name: gscores_web
     ports:
       - "3000:80"
-    depends_on:
-      - backend
-
-  # DATABASE (Optional but recommended)
-  db:
-    image: mysql:8.0
-    container_name: gscores_db
     environment:
-      - MYSQL_DATABASE=gscores_db
-      - MYSQL_ROOT_PASSWORD=yourpassword
-    ports:
-      - "3307:3306"
+      - REACT_APP_API_URL=http://localhost:8080/api
+    restart: always
