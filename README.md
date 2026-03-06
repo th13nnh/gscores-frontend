@@ -4,15 +4,11 @@
 A modern, responsive analytics dashboard for visualizing student performance with multi-language support.
 ---
 
-<p align="center">
-  <img src="/pics/pic1.png" width="600"/>
-  <br/>
-  <em>Figure 1: System Architecture</em>
-</p>
-
 ![Vietnamese](/pics/pic1.png)
+Vietnamese Dashboard
 
-![English version and searching for Student ID](/gscores-frontend/pics/pic2.png)
+![English version and searching for Student ID](/pics/pic2.png)
+English version and searching for Student ID
 ---
 
 ## 🔄 User Flow
