@@ -2,7 +2,10 @@
 # Scores Dashboard (React)
 
 A modern, responsive analytics dashboard for visualizing student performance with multi-language support.
+---
+![Vietnamese](/home/thiennh/Downloads/gscores/src/gscores-frontend/pics/pic1.png)
 
+![English version and searching for Student ID](/home/thiennh/Downloads/gscores/src/gscores-frontend/pics/pic2.png)
 ---
 
 ## 🔄 User Flow
