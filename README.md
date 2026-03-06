@@ -50,4 +50,4 @@ Clone this repo and run Docker command
 docker compose up -d
 ```
 
-![Thank you so much](/pics/thannks.png)
+![Thank you so much](/pics/thanks.png)
