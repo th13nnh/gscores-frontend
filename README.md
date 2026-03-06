@@ -1,1 +1,1 @@
-Clone this repo and run Docker command 'docker-compose up -d'
+Clone this repo and run Docker command 'docker compose up -d'
