@@ -4,9 +4,9 @@
 A modern, responsive analytics dashboard for visualizing student performance with multi-language support.
 ---
 
-![Vietnamese](/src/gscores-frontend/pics/pic1.png)
+![Vietnamese](/gscores-frontend/pics/pic1.png)
 
-![English version and searching for Student ID](/src/gscores-frontend/pics/pic2.png)
+![English version and searching for Student ID](/gscores-frontend/pics/pic2.png)
 ---
 
 ## 🔄 User Flow
