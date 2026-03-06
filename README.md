@@ -1,7 +1,4 @@
 ---
-
-### 🔵 Frontend README Code (`README_FRONTEND.md`)
-
 # 🎨 G-Scores Dashboard (React)
 
 A modern, responsive analytics dashboard for visualizing student performance with multi-language support.
